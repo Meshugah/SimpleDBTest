@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\get.xml",
+        "source": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\src\\main\\res\\menu\\get.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\store.xml",
+        "source": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\src\\main\\res\\menu\\store.xml"
+    }
+]

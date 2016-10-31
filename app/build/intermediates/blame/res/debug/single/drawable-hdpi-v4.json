@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movielogo.jpg",
+        "source": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\src\\main\\res\\drawable-hdpi\\movielogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Vignesh\\.android\\AndroidProjects\\SimpleDBTest1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

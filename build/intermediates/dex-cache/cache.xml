@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c02d301eb238b5fda44775b6f67df51dff207d0">
+        <dex dex="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_daa54711c3d8757c54aef5901b37a9472ef59f8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_63af8a626e0dcb4ae8dcef76fd2dd40a7bd285f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="08e3a5c3ab43c83e261c110dbed4bc074b69646b">
+        <dex dex="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dcfa5178496df9157cb1ed3f1259d997555f39b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\libs\aws-android-sdk-1.7.1.1-debug.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="27fa3ced5b21168b22f53a4df68ac96ea79d4a32">
+        <dex dex="C:\Users\Vignesh\.android\AndroidProjects\SimpleDBTest1\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-1.7.1.1-debug_7d02106121a1ac43e03025b3b035a2be483afdee\classes.dex" />
+    </item>
+
+</items>
